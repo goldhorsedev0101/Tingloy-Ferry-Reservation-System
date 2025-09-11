@@ -31,7 +31,13 @@ function About() {
                             About <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Tingloy Ferry</span>
                         </h1>
                         <p className="text-lg text-gray-600 dark:text-gray-300">
-                            Welcome to the Tingloy Ferry Reservation System, your trusted partner for seamless travel between Mabini and Tingloy. Our mission is to simplify your journey with our advanced online booking, secure QR ticketing, and efficient boarding process. We are committed to providing a reliable and safe travel experience for every passenger.
+                            The story of Montenegro Island Ferry Services, Inc. is rooted in the vision of providing safe, reliable, and modern sea transportation for the people of Tingloy and its visitors.
+                            <br /><br />
+                            On May 31, 2020, the company proudly launched its first two newly built vessels, the MV Island Star and MV Island Pearl, from the shipbuilder’s dockyard. The following day, June 01, 2020, these ships arrived at their homeport in Tingloy, Batangas, marking the official beginning of the company’s journey.
+                            <br /><br />
+                            With these vessels, Montenegro Island Ferry Services, Inc. introduced a new era of ferry travel—one that combines comfort, safety, and efficiency. The company was established not only to serve as a lifeline for Tingloy commuters but also to boost tourism by providing visitors with convenient access to the island’s natural beauty.
+                            <br /><br />
+                            Today, Tingloy Ferry stands as a symbol of progress and community pride, continuously striving to improve its services while honoring its humble beginnings.
                         </p>
                     </div>
                 </main>

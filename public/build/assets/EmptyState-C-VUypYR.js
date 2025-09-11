@@ -1,1 +1,0 @@
-import{j as r}from"./app-B4iSrH4V.js";const a=({message:e})=>r.jsx("div",{className:"flex h-40 items-center justify-center rounded-lg border border-gray-200 bg-gray-50 dark:border-gray-700 dark:bg-gray-900",children:r.jsx("p",{className:"text-gray-500 dark:text-gray-300",children:e})});export{a as default};
