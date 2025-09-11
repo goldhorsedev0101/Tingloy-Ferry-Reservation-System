@@ -1,0 +1,1 @@
+import{j as o}from"./app-B4iSrH4V.js";import{c as t}from"./utils-jAU0Cazi.js";import{L as c}from"./logo-BzCao4e8.js";function p({iconNode:r,className:n,...s}){return o.jsx(r,{className:t("h-4 w-4",n),...s})}function e(){return o.jsx("img",{src:c,alt:"Tingloy Logo"})}export{e as A,p as I};
